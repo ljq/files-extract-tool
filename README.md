@@ -9,7 +9,7 @@
 
 ### Configure&Build
 
-    **Config.ini** configuration file:
+**Config.ini** configuration file:
 
 ###### dirToVerify: Directory of files awaiting extract
 
