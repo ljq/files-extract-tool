@@ -30,7 +30,7 @@ Usage:  -v|-V|--version: check current version
 
 ### 引用鸣谢
 
-[xuri/excelize](github.com/xuri/excelize/v2)
+[excelize](https://github.com/xuri/excelize/v2)
 
 ### 重要声明
 
