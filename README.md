@@ -31,3 +31,7 @@ Usage:  -v|-V|--version: check current version
 
 ### Reference tool
 * [xuri/excelize](github.com/xuri/excelize/v2)
+
+### Important Statement
+
+###### Prohibited for illegal purposes.
