@@ -3,7 +3,24 @@
 * hashes.xlsx: 哈希文件校验值测试文件:
     * md5
     * sha256
+
+Input excel file format:
+
+|filename|md5|sha-256|...|
+|-----|-|-|-|
+|a.txt|-|-|-|
+|b.txt|-|-|-|
+|c.txt|-|-|-|
+
+
 * results.xlsx: 文件内容提取信息结果集
+
+Output excel file format:
+|fileName[verifyed]|filePath|sha-256|...|
+|-----|-|-|-|
+|a.txt|-|-|-|
+|b.txt|-|-|-|
+|c.txt|-|-|-|
 
 ### 配置 & 构建
 

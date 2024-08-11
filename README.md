@@ -5,7 +5,24 @@
 * **Hashs.xlsx**: Hash file verification value demo file:
     * md5
     * sha256
+
+Input excel file format:
+
+|filename|md5|sha-256|...|
+|-----|-|-|-|
+|a.txt|-|-|-|
+|b.txt|-|-|-|
+|c.txt|-|-|-|
+
+
 * **Results. xlsx**: File Content Extraction Information Result Set
+
+Output excel file format:
+|fileName[verifyed]|filePath|sha-256|...|
+|-----|-|-|-|
+|a.txt|-|-|-|
+|b.txt|-|-|-|
+|c.txt|-|-|-|
 
 ### Configure&Build
 
