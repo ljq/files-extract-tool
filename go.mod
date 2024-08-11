@@ -1,4 +1,4 @@
-module files-extraction-tool
+module files-extract-tool
 
 go 1.22.6
 
