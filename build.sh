@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# build: files-extraction-tool
+# build: files-extract-tool
 
-env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extraction-tool main.go
+env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extract-tool main.go

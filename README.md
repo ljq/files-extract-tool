@@ -1,4 +1,4 @@
-### Extract files based on file feature values (md5, sha256)
+### Files Extract Tool: extract files based on file feature values (md5, sha256)
 
 [简体中文](README.zh-CN.md)
 
@@ -39,7 +39,7 @@ dirToVerify=verify-demo
 
 ```
 # build linux platform:
-env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extraction-tool main.go
+env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extract-tool main.go
 ```
 
 ### Check Version

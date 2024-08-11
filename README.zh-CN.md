@@ -1,4 +1,4 @@
-### 根据文件特征值(md5、sha256）提取文件
+### Files-Extract-Tool : 根据文件特征值(md5、sha256）提取文件
 
 * hashes.xlsx: 哈希文件校验值测试文件:
     * md5
@@ -36,7 +36,7 @@ dirToVerify=verify-demo
 ###### build: 构建命令
 ```
 # build linux platform:
-env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extraction-tool main.go
+env GOOS=linux GOARCH=amd64 go build -o ./bin/files-extract-tool main.go
 ```
 
 ### 查看版本
