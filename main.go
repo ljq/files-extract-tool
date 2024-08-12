@@ -155,8 +155,8 @@ func writeResultsToExcel(results []string, outputFile string) error {
 
 	// Set headers
 	headers := map[string]string{
-		"A1": "fileName[verifyed]",
-		"B1": "filePath",
+		"A1": "file_name[verifyed]",
+		"B1": "file_path",
 		"C1": "md5",
 		"D1": "sha-256",
 	}

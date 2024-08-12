@@ -6,8 +6,8 @@
 
 Input excel file format:
 
-|filename|md5|sha-256|...|
-|-----|-|-|-|
+|file_name|md5|sha-256|[ ... ]|
+|---------|---|-------|-------|
 |a.txt|-|-|-|
 |b.txt|-|-|-|
 |c.txt|-|-|-|
@@ -16,11 +16,11 @@ Input excel file format:
 * results.xlsx: 文件内容提取信息结果集
 
 Output excel file format:
-|fileName[verifyed]|filePath|sha-256|...|
-|-----|-|-|-|
-|a.txt|-|-|-|
-|b.txt|-|-|-|
-|c.txt|-|-|-|
+|file_name(verifyed)|file_path|sha-256|[ ... ]|
+|-----|-------------|---------|---------------|
+|a.txt|verify-demo/a.txt|-|-|
+|b.txt|verify-demo/test1/a.txt|-|-|
+|c.txt| verify-demo/test1/test2/a.txt|-|-|
 
 ### 配置 & 构建
 
