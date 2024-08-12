@@ -24,7 +24,7 @@ Output excel file format:
 |b.txt|verify-demo/test1/a.txt|-|-|
 |c.txt| verify-demo/test1/test2/a.txt|-|-|
 
-### Configure&Build
+### Configure and build
 
 **Config.ini** configuration file:
 

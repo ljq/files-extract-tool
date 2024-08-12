@@ -22,7 +22,7 @@ Output excel file format:
 |b.txt|verify-demo/test1/a.txt|-|-|
 |c.txt| verify-demo/test1/test2/a.txt|-|-|
 
-### 配置 & 构建
+### 配置和构建
 
 **config.ini** 配置文件：
 
