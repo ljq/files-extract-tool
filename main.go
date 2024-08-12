@@ -189,7 +189,7 @@ func writeResultsToExcel(results []string, outputFile string) error {
 
 func main() {
 	if len(os.Args) == 2 {
-		// 获取命令行的第一个参数
+		// get the second argument
 		arg := os.Args[1]
 		if arg == "-v" || arg == "-V" || arg == "--version" {
 			arg = "The current version: 1.0.0"
