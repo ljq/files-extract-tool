@@ -1,4 +1,4 @@
 results.xlsx
-files-censor
+files-extract-tool
 /bin/*
 !/bin/.gitkeep

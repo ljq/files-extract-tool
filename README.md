@@ -31,7 +31,7 @@ Output excel file format:
 ###### dirToVerify: Directory of files awaiting extract
 
 ```
-#Directory of Files Awaiting Censor
+#Directory of Files Awaiting Extract
 dirToVerify=verify-demo
 ```
 

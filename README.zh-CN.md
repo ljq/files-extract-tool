@@ -29,7 +29,7 @@ Output excel file format:
 ###### dirToVerify: Directory of files awaiting extract
 
 ```
-# Directory of files awaiting censor（待提取文件目录）
+# Directory of files awaiting extract（待提取文件目录）
 dirToVerify=verify-demo
 ```
 
